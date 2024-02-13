@@ -51,7 +51,7 @@ Abaixo segue uma lista das tecnologias utilizadas
 
 ### POST `/polls`
 
-Create a new poll.
+Crie uma nova votação.
 
 #### Request body
 
@@ -77,7 +77,7 @@ Create a new poll.
 
 ### GET `/polls/:pollId`
 
-Return data from a single poll.
+Retornar dados de uma única votação.
 
 #### Response body
 
@@ -114,7 +114,7 @@ Return data from a single poll.
 
 ### POST `/polls/:pollId/votes`
 
-Add a vote to specific poll.
+Adicionar um voto a uma votação específica.
 
 #### Request body
 
