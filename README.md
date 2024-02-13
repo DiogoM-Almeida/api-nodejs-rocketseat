@@ -4,12 +4,12 @@ Um sistema de votação em tempo real onde os usuários podem criar uma enquete 
 
 ## Funcionalidades ##
 
-- Criar novas enquetes;\
-- Editar enquete;\
-- Deletar enquete;\
-- Votar em enquete;\
-- Ler informações de uma enquete e ver quantidades de votos;\
-- Cada usuário só poderá voltar apenas um enquete;\
+- Criar novas enquetes;
+- Editar enquete;
+- Deletar enquete;
+- Votar em enquete;
+- Ler informações de uma enquete e ver quantidades de votos;
+- Cada usuário só poderá voltar apenas um enquete;
 
 ## Tecnologias ##
 
